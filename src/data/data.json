@@ -5,34 +5,34 @@
             "location": "ул. Солженицына, 24/23",
             "contact": "8 (863) 229-43-10",
             "time": "8.00 - 23.45",
-            "foto": "Нет информации",
+            "foto": "/static/images/card/",
             "type": "torg"
         },
         {
             "id": "2",
             "name": "\"Ассорти\" на Жукова",
             "location": "ул. Жукова, 36",
-            "contact": "Нет информации",
+            "contact": "",
             "time": "Круглосуточно",
-            "foto": "2.jpg",
+            "foto": "/static/images/card/2.jpg",
             "type": "torg"
         },
         {
             "id": "3",
             "name": "\"Апекс\" на Жданова",
             "location": "ул. Жданова, 11",
-            "contact": "Нет информации",
+            "contact": "",
             "time": "7.00 - 23.45",
-            "foto": "3.jpg",
+            "foto": "/static/images/card/3.jpg",
             "type": "torg"
         },
         {
             "id": "4",
             "name": "\"Варница\" на Жданова",
             "location": "ул. Жданова, 9",
-            "contact": "Нет информации",
+            "contact": "",
             "time": "11.00 - 22.00",
-            "foto": "4.jpg",
+            "foto": "/static/images/card/4.jpg",
             "type": "torg"
         },
         {
@@ -41,52 +41,52 @@
             "location": "ул. Жукова, 36",
             "contact": "8 951 494-17-77",
             "time": "11.00 - 23.00",
-            "foto": "5.jpg",
+            "foto": "/static/images/card/5.jpg",
             "type": "torg"
         },
         {
             "id": "6",
             "name": "Магазин фермерских \nпродуктов \"Продукты Юга\"",
             "location": "ул. Жданова, 13",
-            "contact": "Нет информации",
+            "contact": "",
             "time": "8.00 - 20.00",
-            "foto": "6.jpg",
+            "foto": "/static/images/card/6.jpg",
             "type": "torg"
         },
         {
             "id": "7",
             "name": "Продуктовый магазин \"Южная заря\"",
             "location": "ул. Жукова 30/95",
-            "contact": "Нет информации",
+            "contact": "",
             "time": "10.00 - 22.00",
-            "foto": "7.jpg",
+            "foto": "/static/images/card/7.jpg",
             "type": "torg"
         },
         {
             "id": "8",
             "name": "Продуктовый магазин \nна Еременко",
-            "location": "Нет информации",
-            "contact": "Нет информации",
-            "time": "Нет информации",
-            "foto": "Нет информации",
+            "location": "",
+            "contact": "",
+            "time": "",
+            "foto": "/static/images/card/",
             "type": "torg"
         },
         {
             "id": "9",
             "name": "Продуктовый магазин\nна Еременко",
-            "location": "Нет информации",
-            "contact": "Нет информации",
-            "time": "Нет информации",
-            "foto": "Нет информации",
+            "location": "",
+            "contact": "",
+            "time": "",
+            "foto": "/static/images/card/",
             "type": "torg"
         },
         {
             "id": "10",
             "name": "Продуктовый магазин\nна Еляна",
-            "location": "Нет информации",
-            "contact": "Нет информации",
-            "time": "Нет информации",
-            "foto": "Нет информации",
+            "location": "",
+            "contact": "",
+            "time": "",
+            "foto": "/static/images/card/",
             "type": "torg"
         },
         {
@@ -95,7 +95,7 @@
             "location": "ул. Доватора, 267",
             "contact": "8 800 700-41-11",
             "time": "Круглосуточно",
-            "foto": "11.jpg",
+            "foto": "/static/images/card/11.jpg",
             "type": "torg"
         },
         {
@@ -104,7 +104,7 @@
             "location": "ул. Жданова, 18",
             "contact": "8 800 200‑90-02",
             "time": "7.00 - 24.00",
-            "foto": "12.jpg",
+            "foto": "/static/images/card/12.jpg",
             "type": "torg"
         },
         {
@@ -113,7 +113,7 @@
             "location": "ул. Жданова, 2/7",
             "contact": "8 863 210-51-79\nleventsovsky.ru",
             "time": "10.00 - 22.00",
-            "foto": "13.jpg",
+            "foto": "/static/images/card/13.jpg",
             "type": "torg"
         },
         {
@@ -122,7 +122,7 @@
             "location": "ул. Жукова 30/95",
             "contact": "8 863 270‑37-37\nlutti.ru",
             "time": "10.00 - 20.00",
-            "foto": "14.jpg",
+            "foto": "/static/images/card/14.jpg",
             "type": "torg"
         },
         {
@@ -131,34 +131,34 @@
             "location": "ул. Жукова, 36",
             "contact": "8 989 701‑90-45",
             "time": "8.00 - 21.00",
-            "foto": "15.jpg",
+            "foto": "/static/images/card/15.jpg",
             "type": "torg"
         },
         {
             "id": "16",
             "name": "Хозяйственный магазин\nна Еременко",
-            "location": "Нет информации",
-            "contact": "Нет информации",
-            "time": "Нет информации",
-            "foto": "Нет информации",
+            "location": "",
+            "contact": "",
+            "time": "",
+            "foto": "/static/images/card/",
             "type": "torg"
         },
         {
             "id": "17",
             "name": "Магазин канцелярии \n1000 мелочей на Еляна",
-            "location": "Нет информации",
-            "contact": "Нет информации",
-            "time": "Нет информации",
-            "foto": "Нет информации",
+            "location": "",
+            "contact": "",
+            "time": "",
+            "foto": "/static/images/card/",
             "type": "torg"
         },
         {
             "id": "18",
             "name": "Магазин на Солженицына",
-            "location": "Нет информации",
-            "contact": "Нет информации",
-            "time": "Нет информации",
-            "foto": "Нет информации",
+            "location": "",
+            "contact": "",
+            "time": "",
+            "foto": "/static/images/card/",
             "type": "torg"
         },
         {
@@ -166,8 +166,8 @@
             "name": "ААА-моторс, продажа автомобилей",
             "location": "ул. Доватора, 259",
             "contact": "8 863 306‑00-10",
-            "time": "Нет информации",
-            "foto": "19.jpg",
+            "time": "",
+            "foto": "/static/images/card/19.jpg",
             "type": "torg"
         },
         {
@@ -175,8 +175,8 @@
             "name": "Аптека № 25",
             "location": "ул. Жукова, 30/95",
             "contact": "8 863 229‑96-07",
-            "time": "Нет информации",
-            "foto": "20.jpg",
+            "time": "",
+            "foto": "/static/images/card/20.jpg",
             "type": "apt"
         },
         {
@@ -184,44 +184,44 @@
             "name": "Аптека \"Пчелка\"",
             "location": "ул. Жукова, 36/5",
             "contact": "8 863 280‑90-60",
-            "time": "Нет информации",
-            "foto": "21.jpg",
+            "time": "",
+            "foto": "/static/images/card/21.jpg",
             "type": "apt"
         },
         {
             "id": "22",
             "name": "Аптека на Еременко 101",
             "location": "ул. Еременко, 101",
-            "contact": "Нет информации",
-            "time": "Нет информации",
-            "foto": "Нет информации",
+            "contact": "",
+            "time": "",
+            "foto": "/static/images/card/",
             "type": "apt"
         },
         {
             "id": "23",
             "name": "Аптека на Еременко 94",
             "location": "ул. Еременко, 94",
-            "contact": "Нет информации",
-            "time": "Нет информации",
-            "foto": "Нет информации",
+            "contact": "",
+            "time": "",
+            "foto": "/static/images/card/",
             "type": "apt"
         },
         {
             "id": "24",
             "name": "Аптека \"Радуга\"",
             "location": "ул. Жданова, 18",
-            "contact": "Нет информации",
-            "time": "Нет информации",
-            "foto": "Нет информации",
+            "contact": "",
+            "time": "",
+            "foto": "/static/images/card/",
             "type": "apt"
         },
         {
             "id": "25",
             "name": "Стоматология \"Афина\"",
             "location": "ул. Жукова, 36/5",
-            "contact": "Нет информации",
-            "time": "Нет информации",
-            "foto": "Нет информации",
+            "contact": "",
+            "time": "",
+            "foto": "/static/images/card/",
             "type": "apt"
         },
         {
@@ -230,7 +230,7 @@
             "location": "ул Жукова, 30/95",
             "contact": "8 800 333‑39-25\n8 863 294‑60-08",
             "time": "9.00 - 20.00",
-            "foto": "Нет информации",
+            "foto": "/static/images/card/",
             "type": "apt"
         },
         {
@@ -239,7 +239,7 @@
             "location": "ул. Еременко, 101",
             "contact": "8 863 221-62-21",
             "time": "9.00 - 21.00",
-            "foto": "Нет информации",
+            "foto": "/static/images/card/",
             "type": "apt"
         },
         {
@@ -248,7 +248,7 @@
             "location": "ул. Жукова, 32",
             "contact": "8 863 310‑77-67, \n8 863 280‑91-97\ndgp45.ru",
             "time": "7.00 - 20.00 (будни)",
-            "foto": "Нет информации",
+            "foto": "/static/images/card/",
             "type": "apt"
         },
         {
@@ -257,7 +257,7 @@
             "location": "ул. Жукова, 23",
             "contact": "8 863 320-03-81",
             "time": "9.00 - 20.00 (будни)",
-            "foto": "Нет информации",
+            "foto": "/static/images/card/",
             "type": "apt"
         },
         {
@@ -265,8 +265,8 @@
             "name": "Городская поликлиника №42",
             "location": "ул. Еременко, 60/5",
             "contact": "8 863 225-06-76 (регистратура)",
-            "time": "Нет информации",
-            "foto": "Нет информации",
+            "time": "",
+            "foto": "/static/images/card/",
             "type": "apt"
         }
     ]
