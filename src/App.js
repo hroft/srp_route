@@ -26,13 +26,18 @@ class App extends Component {
   }
   render() {
     return <div className="App">
-        <button className="btn btn-primary" onClick={this.sstatet}>
+    <nav>
+    <button className="btn btn-primary" onClick={this.sstatet}>
           Магазины
         </button>
         <button className="btn btn-primary" onClick={this.sstatea}>
           Аптеки
         </button>
+    </nav>
+
+        <div className="wraper">
         <CardItemMain data={this.state.data} ptype={this.state.ptype} />
+        </div>
       </div>;
   }
 }
